@@ -9,6 +9,6 @@ En el mundo actual, dominar un lenguaje de programación es más que una habilid
 Abarcaremos los pilares fundamentales de Python, abordando temas esenciales como variables, tipos de datos, estructuras de control y funciones. A medida que avanzamos, exploraremos conceptos más avanzados, incluidos los módulos y paquetes, la manipulación de archivos, el manejo de excepciones y la programación orientada a objetos.
 
 ## Contenido
-https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/1_Tipos_de_datos.ipynb
+- [Tipos de datos](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/1_Tipos_de_datos.ipynb)
 
 
