@@ -16,6 +16,8 @@ Abarcaremos los pilares fundamentales de Python, abordando temas esenciales como
 - [Operadores de asignación](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/3_Operadores_de_asignacion.ipynb)
 - [Operadores de relación](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/4_Operadores%20de%20relacion.ipynb)
 - [Operadores logícos](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/5_Operadores%20logicos.ipynb)
+### Estructuras de datos
+- [Listas](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/0addce1dd0fd56c7a9e8fb0ac2f405f9b9207f76/Cuadernos/6_Listas.ipynb)
 
 
 
