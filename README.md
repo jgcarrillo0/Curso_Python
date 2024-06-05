@@ -17,7 +17,7 @@ Abarcaremos los pilares fundamentales de Python, abordando temas esenciales como
 - [Operadores de relación](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/4_Operadores%20de%20relacion.ipynb)
 - [Operadores logícos](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/5_Operadores%20logicos.ipynb)
 ### Estructuras de datos
-- [Listas](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/0addce1dd0fd56c7a9e8fb0ac2f405f9b9207f76/Cuadernos/6_Listas.ipynb)
+- [Listas](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/6_Listas.ipynb)
 - [Tuplas](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/7_Tuplas.ipynb)
 - [Conjuntos](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/8_Conjuntos.ipynb)
 - [Diccionarios](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/9_Diccionaros.ipynb)
