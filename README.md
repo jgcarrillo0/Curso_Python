@@ -20,3 +20,5 @@ Abarcaremos los pilares fundamentales de Python, abordando temas esenciales como
 - [Listas](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/0addce1dd0fd56c7a9e8fb0ac2f405f9b9207f76/Cuadernos/6_Listas.ipynb)
 - [Tuplas](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/7_Tuplas.ipynb)
 - [Conjuntos](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/8_Conjuntos.ipynb)
+- [Diccionarios](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/9_Diccionaros.ipynb)
+### Estructuras de control
