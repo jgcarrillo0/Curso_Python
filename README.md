@@ -22,3 +22,4 @@ Abarcaremos los pilares fundamentales de Python, abordando temas esenciales como
 - [Conjuntos](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/8_Conjuntos.ipynb)
 - [Diccionarios](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/9_Diccionaros.ipynb)
 ### Estructuras de control
+- [Condicional if](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/10_Condicional%20if.ipynb)
