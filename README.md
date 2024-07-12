@@ -26,3 +26,5 @@ Abarcaremos los pilares fundamentales de Python, abordando temas esenciales como
 - [For](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/11_For.ipynb)
 - [While](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/12_While.ipynb)
 - [Exception](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/13_Excepciones.ipynb)
+### Manejo de cadenas de caracteres
+- [Manejo básico de cadenas](https://nbviewer.org/github/jgcarrillo0/Curso_Python/blob/main/Cuadernos/14_Manejo%20de%20cadenas.ipynb)
